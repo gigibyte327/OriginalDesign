@@ -17,9 +17,9 @@ void draw()
 	spikes();
 
 }
-void mousePressed(){
-	text(mouseX +","+ mouseY,mouseX+10,mouseY+10);
-}
+//void mousePressed(){
+//	text(mouseX +","+ mouseY,mouseX+10,mouseY+10);
+//}
 
 void cactPot()
 {
